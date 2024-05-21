@@ -1,0 +1,73 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materias": [
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "Java"
+        },
+        {
+          "nombre": "Java"
+        }
+      ],
+      "id": "7038"
+    },
+    {
+      "id": "1026",
+      "nombre": "Lisandro",
+      "apellido": "Dev",
+      "materias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Fisica"
+        },
+        {
+          "nombre": "Mate"
+        },
+        {
+          "nombre": "Pascal"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Juana",
+      "apellido": "Rodriguez",
+      "promedio": 10,
+      "id": "c3d9"
+    },
+    {
+      "nombre": "Mariana",
+      "apellido": "Lujan",
+      "promedio": 6,
+      "id": "0d7b"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "8a78"
+    },
+    {
+      "nombre": "Angular",
+      "duracion": 6,
+      "dificultad": "facil",
+      "id": "bdbb"
+    },
+    {
+      "nombre": "Java",
+      "duracion": 9,
+      "dificultad": "Dificil",
+      "id": "2704"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "server-json",
+  "version": "1.0.0",
+  "description": "Sever-Json",
+  "main": "app.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "author": "Lichu",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.0"
+  }
+}
